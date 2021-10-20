@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+#gc {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: white;
+    display: block;
+    width: 1200px;
+}
